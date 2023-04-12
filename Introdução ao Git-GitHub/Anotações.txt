@@ -1,0 +1,6 @@
+Comandos Git
+
+Git Clone - Importando um repositório
+Push - Upload de repositório
+Commit - Comentário e envio do repositório
+
